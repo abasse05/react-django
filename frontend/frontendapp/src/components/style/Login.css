@@ -1,0 +1,46 @@
+.container {
+    width: max-content;
+    margin: 100px auto;
+    padding: 40px;
+    background-color: rgb(144, 197, 169);
+}
+
+.container .label {
+    color: white;
+    font-weight: bold;
+    display: block;
+    font-size: x-large;
+}
+
+.container .label label {
+    padding: 13px;
+    position: relative;
+    right: 81px;
+}
+
+.container .label input {
+    width: 250px;
+    padding: 13px;
+}
+
+.button1 {
+    width: 40%;
+    padding: 5%;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+    background-color: seagreen;
+    border: aliceblue;
+    cursor: pointer;
+}
+
+.button2 {
+    width: 40%;
+    padding: 5%;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+    background-color: darkslategrey;
+    border: aliceblue;
+    cursor: pointer;
+}
